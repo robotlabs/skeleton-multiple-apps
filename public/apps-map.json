@@ -1,0 +1,23 @@
+[
+    {
+        "id": "app-a",
+        "name": "App A",
+        "url": "app-a",
+        "backgroundColor": "#008c7d",
+        "color": "#fff"
+    },
+    {
+        "id": "app-b",
+        "name": "App B",
+        "url": "app-b",
+        "backgroundColor": "#008c7d",
+        "color": "#fff"
+    },
+    {
+        "id": "app-c",
+        "name": "App C",
+        "url": "app-c",
+        "backgroundColor": "#008c7d",
+        "color": "#fff"
+    }
+]

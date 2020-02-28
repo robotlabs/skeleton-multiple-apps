@@ -1,0 +1,12 @@
+.cross-word__overlay {
+  background-color: var(--c-teal);
+  color: var(--c-white);
+  p {
+    margin: 0;
+  }
+}
+
+.cross-word__overlay svg {
+  max-width: 600px;
+  margin: 0 auto;
+}
