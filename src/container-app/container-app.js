@@ -3,7 +3,7 @@ import React, { useEffect, useState, useRef } from 'react'
 import Routes from './routes/routes'
 import STATUS from './shared/constants'
 import { routesLoad } from './routes/routes-parser'
-import './jardiance-app.scss'
+import './container-app.scss'
 
 function JardianceApp () {
   const [status, setStatus] = useState(STATUS.LOADING)
